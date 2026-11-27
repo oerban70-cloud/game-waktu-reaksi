@@ -9,7 +9,7 @@ terbaikmu. Kalau kamu menekan tombol reaksi SEBELUM LED menyala, itu
 dianggap curang — buzzer berbunyi panjang dan ronde diulang dari awal.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/PyrFA8oa9I0
 
 ## Komponen
 
